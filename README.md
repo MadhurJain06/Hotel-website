@@ -1,5 +1,8 @@
 # Hotel-website
 Dummy Hotel website frontend using ReactJS, tailwind. 
+Used Clerk for authorizations and have imported some UI designs from Prebuilt UI.
+Since I am a newcomer to this field, this was just another practice project, It may not be a product kind of project but still best for my practice and learning. 
+I will be completing its backend part by some time too.
 
 # UI:
 ## Home page:
