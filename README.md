@@ -7,8 +7,8 @@ Dummy Hotel website frontend using ReactJS, tailwind.
 
 ## All hotels view page (/rooms):
 <img width="1920" height="2606" alt="image" src="https://github.com/user-attachments/assets/7011c7c1-5633-4ef3-accf-c1a786c37d77" />
-## my-bookings
 
+## my-bookings
 <img width="1920" height="1766" alt="image" src="https://github.com/user-attachments/assets/cfe4104e-8ee3-4426-8e72-5281b823f7fd" />
 
 ## Dashboard for owner: (/owner)
